@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**therahul1996/therahul1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Rahul 👋
+### React Developer || Frontend Developer | UI Developer
 
-Here are some ideas to get you started:
+I am a dedicated and passionate Frontend and React Developer with a total of 4 years of experience in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **Frontend Developer** - 2 years
+   - Proficient in HTML, CSS, and JavaScript
+   - Experienced in working with modern frameworks such as Angular, React and Vue
+   - Skilled in creating responsive and user-friendly web interfaces
+
+- **React Developer** - 2.2 years
+   - Strong proficiency in React and its ecosystem
+   - Proficient in state management with Redux and context API
+   - Experienced in building scalable and performance-optimized React applications
+
+## Skills
+- Frontend Technologies: HTML, CSS, JavaScript, SASS/LESS, Bootstrap, Tailwind
+- Libraries/Frameworks: React, Redux, Material-UI, etc.
+- Version Control: Git, GitHub
+- Other Tools: VS Code, Webpack, Babel
+
+## Contact Me
+- Email: rs9097737511@gmail.com
+- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/rahul-sahu-8b5975178/)
+- Portfolio Website: [[Portfolio]](https://rahul-kumar-sahu-portfolio.netlify.app/)https://rahul-kumar-sahu-portfolio.netlify.app/)
+
+Thank you for visiting my GitHub profile!
