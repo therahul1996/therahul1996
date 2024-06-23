@@ -11,7 +11,7 @@ I am a dedicated and passionate Frontend and React Developer with a total of 4 y
    - Proficient in state management with Redux and context API
    - Experienced in building scalable and performance-optimized React applications
 
-- **Web Designer** - 2.2 years
+- **Web Designer** - 2 years
    - Proficient in HTML, CSS, and JavaScript
    - Experienced in working with modern frameworks such as Angular, React and Vue
    - Skilled in creating responsive and user-friendly web interfaces
