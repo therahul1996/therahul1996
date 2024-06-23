@@ -5,15 +5,16 @@
 I am a dedicated and passionate Frontend and React Developer with a total of 4 years of experience in the tech industry.
 
 ## Experience
-- **Frontend Developer** - 2 years
-   - Proficient in HTML, CSS, and JavaScript
-   - Experienced in working with modern frameworks such as Angular, React and Vue
-   - Skilled in creating responsive and user-friendly web interfaces
 
 - **React Developer** - 2.2 years
    - Strong proficiency in React and its ecosystem
    - Proficient in state management with Redux and context API
    - Experienced in building scalable and performance-optimized React applications
+
+- **Web Designer** - 2.2 years
+   - Proficient in HTML, CSS, and JavaScript
+   - Experienced in working with modern frameworks such as Angular, React and Vue
+   - Skilled in creating responsive and user-friendly web interfaces
 
 ## Skills
 - Frontend Technologies: HTML, CSS, JavaScript, SASS/LESS, Bootstrap, Tailwind
