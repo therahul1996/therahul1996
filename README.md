@@ -2,7 +2,7 @@
 # Hi there, I'm Rahul 👋
 ### React Developer || Frontend Developer | UI Developer
 
-I am a dedicated and passionate Frontend and React Developer with a total of 4 years of experience in the tech industry.
+Highly motivated and experienced Team Lead with a strong background in React JS development. Proven track record of delivering high-quality projects on time and leading teams to success. Skilled in mentoring junior developers, improving code quality, and driving technical innovation. Proficient in Agile methodologies and passionate about staying up-to-date with the latest industry trends.
 
 ## Experience
 
@@ -25,6 +25,6 @@ I am a dedicated and passionate Frontend and React Developer with a total of 4 y
 ## Contact Me
 - Email: rs9097737511@gmail.com
 - LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/rahul-sahu-8b5975178/)
-- Portfolio Website: [[Portfolio]](https://rahul-kumar-sahu-portfolio.netlify.app/)https://rahul-kumar-sahu-portfolio.netlify.app/)
+- Portfolio Website: [[Portfolio]](https://rahul-kumar-sahu-portfolio.vercel.app/profile)https://rahul-kumar-sahu-portfolio.vercel.app/profile)
 
 Thank you for visiting my GitHub profile!
