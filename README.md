@@ -1,30 +1,40 @@
-
 # Hi there, I'm Rahul 👋
-### React Developer || Frontend Developer | UI Developer
+### React Developer || Full Stack Developer || Web3 Enthusiast
 
-Highly motivated and experienced Team Lead with a strong background in React JS development. Proven track record of delivering high-quality projects on time and leading teams to success. Skilled in mentoring junior developers, improving code quality, and driving technical innovation. Proficient in Agile methodologies and passionate about staying up-to-date with the latest industry trends.
+Full stack developer with **6+ years** of experience delivering high-quality projects from concept to deployment.  
+Expert in **Next.js**, **React.js**, **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.  
+Hands-on with **Web3** integrations and **Solidity** smart contracts.  
+Skilled at leading teams, writing clean code, and building scalable, user-friendly applications.
 
-## Experience
+---
 
-- **React Developer** - 2.2 years
-   - Strong proficiency in React and its ecosystem
-   - Proficient in state management with Redux and context API
-   - Experienced in building scalable and performance-optimized React applications
+## 💼 Experience
 
-- **Web Designer** - 2 years
-   - Proficient in HTML, CSS, and JavaScript
-   - Experienced in working with modern frameworks such as Angular, React and Vue
-   - Skilled in creating responsive and user-friendly web interfaces
+- **Frontend & Full Stack Development**
+  - React.js, Redux, Context API
+  - Node.js, Express.js, PostgreSQL, MongoDB
+  - Web3.js, Ethers.js, Solidity
 
-## Skills
-- Frontend Technologies: HTML, CSS, JavaScript, SASS/LESS, Bootstrap, Tailwind
-- Libraries/Frameworks: React, Redux, Material-UI, etc.
-- Version Control: Git, GitHub
-- Other Tools: VS Code, Webpack, Babel
+- **Web Design**
+  - HTML, CSS, JavaScript
+  - Angular, Vue, TailwindCSS, Material-UI
 
-## Contact Me
-- Email: rs9097737511@gmail.com
-- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/rahul-sahu-8b5975178/)
-- Portfolio Website: [[Portfolio]](https://rahul-kumar-sahu-portfolio.vercel.app/profile)https://rahul-kumar-sahu-portfolio.vercel.app/profile)
+---
 
-Thank you for visiting my GitHub profile!
+## 🛠 Skills
+
+**Frontend**: HTML, CSS, JavaScript, SASS/LESS, TailwindCSS, Bootstrap  
+**Backend**: Node.js, Express.js  
+**Databases**: PostgreSQL, MongoDB  
+**Blockchain**: Solidity, Web3.js, Ethers.js  
+**Tools**: Git, GitHub, VS Code, Postman  
+
+---
+
+## 📫 Contact Me
+
+- **Email**: rs9097737511@gmail.com  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rahul-sahu-8b5975178/)  
+- **Portfolio**: [Portfolio Website](https://rahul-kumar-sahu-portfolio.vercel.app/profile)  
+
+---
