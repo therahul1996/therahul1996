@@ -1,5 +1,5 @@
 # Hi there, I'm Rahul 👋
-### React Developer || Full Stack Developer || Web3 Enthusiast
+### Full Stack Developer || React Developer || Web3 Enthusiast
 
 Full stack developer with **6+ years** of experience delivering high-quality projects from concept to deployment.  
 Expert in **Next.js**, **React.js**, **Node.js**, **Express.js**, **PostgreSQL**, and **MongoDB**.  
@@ -10,24 +10,24 @@ Skilled at leading teams, writing clean code, and building scalable, user-friend
 
 ## 💼 Experience
 
-- **Frontend & Full Stack Development**
+- **Full Stack Development && Frontend**
   - React.js, Redux, Context API
   - Node.js, Express.js, PostgreSQL, MongoDB
   - Web3.js, Ethers.js, Solidity
 
 - **Web Design**
   - HTML, CSS, JavaScript
-  - Angular, Vue, TailwindCSS, Material-UI
+  - React, Next Js, Angular
 
 ---
 
 ## 🛠 Skills
 
-**Frontend**: HTML, CSS, JavaScript, SASS/LESS, TailwindCSS, Bootstrap  
+**Frontend**: HTML, CSS, JavaScript, SASS/LESS, TailwindCSS, Bootstrap, Material-UI
 **Backend**: Node.js, Express.js  
 **Databases**: PostgreSQL, MongoDB  
 **Blockchain**: Solidity, Web3.js, Ethers.js  
-**Tools**: Git, GitHub, VS Code, Postman  
+**Tools**: Git, GitHub, VS Code, Postman,Antigravity  
 
 ---
 
